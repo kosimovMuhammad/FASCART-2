@@ -1,0 +1,310 @@
+{
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About",
+    "signUp": "Sign Up"
+  },
+  "search": {
+    "placeholder": "What are you looking for?"
+  },
+  "header": {
+    "loggedInAs": "Logged in as",
+    "account": "Account",
+    "myOrders": "My Orders",
+    "logout": "Logout",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "auth": {
+    "createAccount": "Create an account",
+    "enterDetails": "Enter your details below",
+    "placeholderName": "Name (User Name)",
+    "placeholderPhone": "Phone number",
+    "placeholderEmail": "Email",
+    "placeholderPassword": "Password",
+    "placeholderConfirmPassword": "Confirm Password",
+    "btnCreate": "Create Account",
+    "creating": "Creating Account...",
+    "signUpGoogle": "Sign up with Google",
+    "alreadyHaveAccount": "Already have account?",
+    "logIn": "Log in",
+    "errorPasswordMatch": "Passwords do not match!",
+    "errorConnection": "Connection error with server.",
+    "successRegister": "Account successfully created!"
+  },
+  "loginPage": {
+    "loginTitle": "Log in to Exclusive",
+    "loginSubtitle": "Enter your details below",
+    "placeholderUserOrEmail": "Email or Phone Number",
+    "placeholderPassword": "Password",
+    "forgetPassword": "Forget Password?",
+    "btnLogIn": "Log In",
+    "loggingIn": "Logging In...",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up",
+    "errorLogin": "Incorrect username or password!",
+    "errorConnection": "Server connection error.",
+    "successLogin": "Successful login! Redirecting to home..."
+  },
+  "common": {
+    "shopNow": "Shop Now"
+  },
+  "categories": {
+    "womanFashion": "Woman's Fashion",
+    "menFashion": "Men's Fashion",
+    "electronics": "Electronics",
+    "homeLifestyle": "Home & Lifestyle",
+    "medicine": "Medicine",
+    "sportsOutdoor": "Sports & Outdoor",
+    "babyToys": "Baby's & Toys",
+    "groceriesPets": "Groceries & Pets",
+    "healthBeauty": "Health & Beauty"
+  },
+  "slides": {
+    "iphone": { "title": "iPhone 14 Series", "discount": "Up to 10% off Voucher" },
+    "samsung": { "title": "Samsung S24 Ultra", "discount": "Up to 15% off Today" },
+    "iphonePro": { "title": "iPhone 14 Pro Max", "discount": "Up to 10% off Voucher" },
+    "macbook": { "title": "MacBook Air M3", "discount": "New Arrival - Shop Now" },
+    "ipad": { "title": "iPad Pro Display", "discount": "Exclusive Online Offer" }
+  },
+  "todays": "Today's",
+  "flashSales": "Flash Sales",
+  "days": "Days",
+  "hours": "Hours",
+  "mins": "Mins",
+  "secs": "Secs",
+  "noProducts": "No flash sales items available",
+  "addToCart": "Add To Cart",
+  "viewAllProducts": "View All Products",
+  "categoriesTitle": "Categories",
+  "browseByCategory": "Browse By Category",
+  "category_Electronics": "Electronics",
+  "category_Fashion": "Fashion",
+  "category_Home_Garden": "Home & Garden",
+  "category_Sports": "Sports",
+  "category_Toys": "Toys",
+  "category_Unknown": "Other",
+  "thisMonth": "This Month",
+  "bestSellingProducts": "Best Selling Products",
+  "viewAll": "View All",
+  "musicBanner": {
+    "badge": "Categories",
+    "title": "Enhance Your Music Experience",
+    "button": "Buy Now!",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "exploreProducts": {
+    "badge": "Our Products",
+    "title": "Explore Our Products",
+    "new": "NEW",
+    "addToCart": "Add To Cart",
+    "viewAll": "View All Products"
+  },
+  "newArrival": {
+    "badge": "Featured",
+    "title": "New Arrival",
+    "shopNow": "Shop Now",
+    "ps5": {
+      "name": "PlayStation 5",
+      "desc": "Black and White version of the PS5 coming out on sale."
+    },
+    "women": {
+      "name": "Women's Collections",
+      "desc": "Featured woman collections that give you another vibe."
+    },
+    "speakers": {
+      "name": "Speakers",
+      "desc": "Amazon wireless speakers"
+    },
+    "perfume": {
+      "name": "Perfume",
+      "desc": "GUCCI INTENSE OUD EDP"
+    }
+  },
+  "wishlist": {
+    "title": "Wishlist",
+    "moveAllToBag": "Move All To Bag",
+    "empty": "Your wishlist is empty",
+    "returnToShop": "Return To Shop",
+    "justForYou": "Just For You",
+    "seeAll": "See All"
+  },
+  "productDetails": {
+    "account": "Account",
+    "gaming": "Gaming",
+    "reviews": "Reviews",
+    "inStock": "In Stock",
+    "colours": "Colours:",
+    "size": "Size:",
+    "buyNow": "Buy Now",
+    "freeDelivery": "Free Delivery",
+    "enterPostal": "Enter your postal code for Delivery Availability",
+    "returnDelivery": "Return Delivery",
+    "returnDays": "Free 30 Days Delivery Returns. Details",
+    "relatedItem": "Related Item"
+  },
+  "cart": {
+    "home": "Home",
+    "cart": "Cart",
+    "product": "Product",
+    "price": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "returnToShop": "Return To Shop",
+    "updateCart": "Update Cart",
+    "removeAll": "Remove all",
+    "couponCode": "Coupon Code",
+    "apply": "Apply",
+    "cartTotal": "Cart Total",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "proceedToCheckout": "Proceed to checkout",
+    "emptyCart": "Your cart is empty"
+  },
+  "footer": {
+    "exclusive": "Exclusive",
+    "subscribe": "Subscribe",
+    "get10Off": "Get 10% off your first order",
+    "enterEmail": "Enter your email",
+    "support": "Support",
+    "address": "111 Bijoy sarani, Dhaka, DH 1515, Bangladesh.",
+    "email": "exclusive@gmail.com",
+    "phone": "+88015-88888-9999",
+    "account": "Account",
+    "myAccount": "My Account",
+    "loginRegister": "Login / Register",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "shop": "Shop",
+    "quickLink": "Quick Link",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms Of Use",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "social": "Social",
+    "copyright": "© Copyright Rimel 2022. All right reserved"
+  },
+  "products": {
+    "exploreProducts": "Explore Our Products",
+    "category": "Category",
+    "brands": "Brands",
+    "features": "Features",
+    "priceRange": "Price range",
+    "condition": "Condition",
+    "ratings": "Ratings",
+    "seeAll": "See all",
+    "apply": "Apply",
+    "filters": "Filters",
+    "results": "results",
+    "moreProducts": "More Products",
+    "noResults": "No products found",
+    "tryAdjusting": "Try adjusting your filters",
+    "clearFilters": "Clear all filters"
+  },
+  "checkout": {
+    "title": "Billing Details",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "street": "Street address",
+    "apartment": "Apartment, floor, etc. (optional)",
+    "townCity": "Town/City",
+    "phone": "Phone number",
+    "email": "Email address",
+    "saveInfo": "Save this information for faster check-out next time",
+    "subtotal": "Subtotal:",
+    "shipping": "Shipping:",
+    "free": "Free",
+    "total": "Total:",
+    "bank": "Bank",
+    "cash": "Cash on delivery",
+    "couponPlaceholder": "Coupon Code",
+    "applyCoupon": "Apply",
+    "placeOrder": "Place Order",
+    "successTitle": "Order Placed Successfully!",
+    "successMessage": "Thank you for your purchase. Your order has been placed and is being processed.",
+    "backToShop": "Back to Shop"
+  },
+  "features": {
+    "delivery": {
+      "title": "FREE AND FAST DELIVERY",
+      "desc": "Free delivery for all orders over $140"
+    },
+    "service": {
+      "title": "24/7 CUSTOMER SERVICE",
+      "desc": "Friendly 24/7 customer support"
+    },
+    "guarantee": {
+      "title": "MONEY BACK GUARANTEE",
+      "desc": "We return money within 30 days"
+    }
+  },
+  "contact": {
+    "callTitle": "Call To Us",
+    "available": "We are available 24/7, 7 days a week.",
+    "phone": "Phone: +8801611112222",
+    "writeTitle": "Write To Us",
+    "fillForm": "Fill out our form and we will contact you within 24 hours.",
+    "email1": "Emails: customer@exclusive.com",
+    "email2": "Emails: support@exclusive.com",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone",
+    "messagePlaceholder": "Your Message",
+    "sendMessage": "Send Message"
+  },
+  "aboutPage": {
+    "home": "Home",
+    "about": "About",
+    "title": "Our Story",
+    "description1": "Launched in 2015, Exclusive is South Asia's premier online shopping marketplace with an active presence in Bangladesh. Supported by a wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sellers and 300 brands and serves 3 million customers across the region.",
+    "description2": "Exclusive has more than 1 Million products to offer, growing at a very fast pace. Exclusive offers a diverse assortment in categories ranging from consumer.",
+    "stats": {
+      "sellers": "Sellers active on our site",
+      "sales": "Monthly Product Sales",
+      "customers": "Customers active on our site",
+      "gross": "Annual gross sales on our site"
+    },
+    "team": {
+      "founder": "Founder & Chairman",
+      "director": "Managing Director",
+      "designer": "Product Designer"
+    }
+  },
+  "account": {
+    "myAccount": "My Account",
+    "manageAccount": "Manage My Account",
+    "myProfile": "My Profile",
+    "addressBook": "Address Book",
+    "paymentOptions": "My Payment Options",
+    "myOrders": "My Orders",
+    "myReturns": "My Returns",
+    "myCancellations": "My Cancellations",
+    "myWishlist": "My WishList",
+    "profile": "Profile",
+    "profileImage": "Profile Image",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phoneNumber": "Phone number",
+    "dob": "Date of Birth",
+    "passwordChanges": "Password Changes",
+    "currentPassword": "Current password",
+    "newPassword": "New password",
+    "confirmNewPassword": "Confirm new password",
+    "cancel": "Cancel",
+    "saveChanges": "Save Changes",
+    "updateSuccess": "Profile updated successfully!",
+    "updateError": "Failed to update profile",
+    "errorPasswordMatch": "New passwords do not match"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Your visited page not found. You may go home page.",
+    "backHome": "Back to home page"
+  }
+}

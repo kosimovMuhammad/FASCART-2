@@ -1,0 +1,325 @@
+{
+  "nav": {
+    "home": "Главная",
+    "contact": "Контакты",
+    "about": "О нас",
+    "signUp": "Регистрация"
+  },
+  "search": {
+    "placeholder": "Что вы ищете?"
+  },
+  "header": {
+    "loggedInAs": "Вы вошли как",
+    "account": "Аккаунт",
+    "myOrders": "Мои заказы",
+    "logout": "Выйти",
+    "lightMode": "Светлая тема",
+    "darkMode": "Тёмная тема"
+  },
+  "auth": {
+    "createAccount": "Создать аккаунт",
+    "enterDetails": "Внесите свои данные ниже",
+    "placeholderName": "Имя (Имя пользователя)",
+    "placeholderPhone": "Номер телефона",
+    "placeholderEmail": "Электронная почта",
+    "placeholderPassword": "Пароль",
+    "placeholderConfirmPassword": "Подтвердите пароль",
+    "btnCreate": "Создать аккаунт",
+    "creating": "Создание аккаунта...",
+    "signUpGoogle": "Зарегистрироваться через Google",
+    "alreadyHaveAccount": "Уже есть аккаунт?",
+    "logIn": "Войти",
+    "errorPasswordMatch": "Пароли не совпадают!",
+    "errorConnection": "Ошибка соединения с сервером.",
+    "successRegister": "Аккаунт успешно создан!"
+  },
+  "loginPage": {
+    "loginTitle": "Войти в Exclusive",
+    "loginSubtitle": "Введите свои данные ниже",
+    "placeholderUserOrEmail": "Имя пользователя или Email",
+    "placeholderPassword": "Пароль",
+    "forgetPassword": "Забыли пароль?",
+    "btnLogIn": "Войти",
+    "loggingIn": "Вход в систему...",
+    "noAccount": "У вас нет аккаунта?",
+    "signUp": "Зарегистрироваться",
+    "errorLogin": "Неверное имя пользователя или пароль!",
+    "errorConnection": "Ошибка соединения с сервером.",
+    "successLogin": "Успешный вход! Переход на главную..."
+  },
+  "common": {
+    "shopNow": "Купить сейчас"
+  },
+  "categories": {
+    "womanFashion": "Женская мода",
+    "menFashion": "Мужская мода",
+    "electronics": "Электроника",
+    "homeLifestyle": "Дом и стиль жизни",
+    "medicine": "Медицина",
+    "sportsOutdoor": "Спорт и отдых",
+    "babyToys": "Детские товары и игрушки",
+    "groceriesPets": "Продукты и зоотовары",
+    "healthBeauty": "Здоровье и красота"
+  },
+  "slides": {
+    "iphone": { 
+      "title": "Серия iPhone 14", 
+      "discount": "Ваучер на скидку до 10%" 
+    },
+    "samsung": { 
+      "title": "Samsung S24 Ultra", 
+      "discount": "Скидка до 15% сегодня" 
+    },
+    "iphonePro": { 
+      "title": "iPhone 14 Pro Max", 
+      "discount": "Ваучер на скидку до 10%" 
+    },
+    "macbook": { 
+      "title": "MacBook Air M3", 
+      "discount": "Новинка — Купить сейчас" 
+    },
+    "ipad": { 
+      "title": "Дисплей iPad Pro", 
+      "discount": "Эксклюзивное онлайн-предложение" 
+    }
+  },
+  "todays": "Сегодня",
+  "flashSales": "Флэш-сейлы",
+  "days": "Дни",
+  "hours": "Часы",
+  "mins": "Мин",
+  "secs": "Сек",
+  "noProducts": "Товары со скидкой отсутствуют",
+  "addToCart": "В корзину",
+  "viewAllProducts": "Посмотреть все товары",
+  "categoriesTitle": "Категории",
+  "browseByCategory": "Поиск по категориям",
+  "category_Electronics": "Электроника",
+  "category_Fashion": "Одежда и Мода",
+  "category_Home_Garden": "Дом и Сад",
+  "category_Sports": "Спорт",
+  "category_Toys": "Игрушки",
+  "category_Unknown": "Другое",
+  "thisMonth": "Этот месяц",
+  "bestSellingProducts": "Бестселлеры",
+  "viewAll": "Посмотреть все",
+  "musicBanner": {
+    "badge": "Категории",
+    "title": "Улучшите свой музыкальный опыт",
+    "button": "Купить сейчас!",
+    "days": "Дней",
+    "hours": "Часов",
+    "minutes": "Минут",
+    "seconds": "Секунд"
+  },
+  "exploreProducts": {
+    "badge": "Наши товары",
+    "title": "Изучите наши продукты",
+    "new": "НОВЫЙ",
+    "addToCart": "Добавить в корзину",
+    "viewAll": "Посмотреть все товары"
+  },
+  "newArrival": {
+    "badge": "Рекомендуемые",
+    "title": "Новинки",
+    "shopNow": "В магазин",
+    "ps5": {
+      "name": "PlayStation 5",
+      "desc": "Черно-белая версия PS5 уже в продаже."
+    },
+    "women": {
+      "name": "Женские коллекции",
+      "desc": "Эксклюзивные женские коллекции, которые создадут особое настроение."
+    },
+    "speakers": {
+      "name": "Колонки",
+      "desc": "Беспроводные колонки Amazon"
+    },
+    "perfume": {
+      "name": "Парфюмерия",
+      "desc": "GUCCI INTENSE OUD EDP"
+    }
+  },
+  "wishlist": {
+    "title": "Список желаний",
+    "moveAllToBag": "Переместить всё в корзину",
+    "empty": "Ваш список желаний пуст",
+    "returnToShop": "Вернуться в магазин",
+    "justForYou": "Только для вас",
+    "seeAll": "Смотреть все"
+  },
+  "productDetails": {
+    "account": "Аккаунт",
+    "gaming": "Гейминг",
+    "reviews": "Отзывов",
+    "inStock": "В наличии",
+    "colours": "Цвета:",
+    "size": "Размер:",
+    "buyNow": "Купить сейчас",
+    "freeDelivery": "Бесплатная доставка",
+    "enterPostal": "Введите почтовый индекс, чтобы проверить доставку",
+    "returnDelivery": "Возврат товара",
+    "returnDays": "Бесплатный возврат в течение 30 дней. Подробнее",
+    "relatedItem": "Похожие товары"
+  },
+  "cart": {
+    "home": "Главная",
+    "cart": "Корзина",
+    "product": "Товар",
+    "price": "Цена",
+    "quantity": "Количество",
+    "subtotal": "Подытог",
+    "returnToShop": "Вернуться в магазин",
+    "updateCart": "Обновить корзину",
+    "removeAll": "Удалить всё",
+    "couponCode": "Код купона",
+    "apply": "Применить",
+    "cartTotal": "Итог корзины",
+    "shipping": "Доставка",
+    "free": "Бесплатно",
+    "total": "Итого",
+    "proceedToCheckout": "Перейти к оформлению",
+    "emptyCart": "Ваша корзина пуста"
+  },
+  "footer": {
+    "exclusive": "Эксклюзив",
+    "subscribe": "Подписаться",
+    "get10Off": "Получите скидку 10% на первый заказ",
+    "enterEmail": "Введите ваш email",
+    "support": "Поддержка",
+    "address": "111 Биджой Сарани, Дакка, Бангладеш.",
+    "email": "exclusive@gmail.com",
+    "phone": "+88015-88888-9999",
+    "account": "Аккаунт",
+    "myAccount": "Мой аккаунт",
+    "loginRegister": "Вход / Регистрация",
+    "cart": "Корзина",
+    "wishlist": "Избранное",
+    "shop": "Магазин",
+    "quickLink": "Быстрые ссылки",
+    "privacyPolicy": "Политика конфиденциальности",
+    "termsOfUse": "Условия использования",
+    "faq": "Частые вопросы",
+    "contact": "Контакты",
+    "social": "Соцсети",
+    "copyright": "© Copyright Rimel 2022. Все права защищены"
+  },
+  "products": {
+    "exploreProducts": "Изучить продукты",
+    "category": "Категория",
+    "brands": "Бренды",
+    "features": "Характеристики",
+    "priceRange": "Ценовой диапазон",
+    "condition": "Состояние",
+    "ratings": "Рейтинги",
+    "seeAll": "Смотреть всё",
+    "apply": "Применить",
+    "filters": "Фильтры",
+    "results": "результатов",
+    "moreProducts": "Больше товаров",
+    "noResults": "Товары не найдены",
+    "tryAdjusting": "Попробуйте изменить фильтры",
+    "clearFilters": "Сбросить все фильтры"
+  },
+  "checkout": {
+    "title": "Детали оплаты",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "street": "Адрес улицы",
+    "apartment": "Квартира, этаж и т.д. (необязательно)",
+    "townCity": "Город/Населенный пункт",
+    "phone": "Номер телефона",
+    "email": "Электронная почта",
+    "saveInfo": "Сохранить эту информацию для более быстрого оформления заказа в следующий раз",
+    "subtotal": "Итого:",
+    "shipping": "Доставка:",
+    "free": "Бесплатно",
+    "total": "Всего:",
+    "bank": "Банк",
+    "cash": "Оплата при получении",
+    "couponPlaceholder": "Код купона",
+    "applyCoupon": "Применить",
+    "placeOrder": "Разместить заказ",
+    "successTitle": "Заказ успешно оформлен!",
+    "successMessage": "Спасибо за покупку. Ваш заказ был размещен и находится в обработке.",
+    "backToShop": "Вернуться в магазин"
+  },
+  "features": {
+    "delivery": {
+      "title": "БЕСПЛАТНАЯ И БЫСТРАЯ ДОСТАВКА",
+      "desc": "Бесплатная доставка для всех заказов от $140"
+    },
+    "service": {
+      "title": "ПОДДЕРЖКА КЛИЕНТОВ 24/7",
+      "desc": "Дружелюбная поддержка клиентов 24 часа в сутки"
+    },
+    "guarantee": {
+      "title": "ГАРАНТИЯ ВОЗВРАТА ДЕНЕГ",
+      "desc": "Мы возвращаем деньги в течение 30 дней"
+    }
+  },
+  "contact": {
+    "callTitle": "Позвоните нам",
+    "available": "Мы доступны 24/7, 7 дней в неделю.",
+    "phone": "Телефон: +8801611112222",
+    "writeTitle": "Напишите нам",
+    "fillForm": "Заполните нашу форму, и мы свяжемся с вами в течение 24 часов.",
+    "email1": "Email: customer@exclusive.com",
+    "email2": "Email: support@exclusive.com",
+    "namePlaceholder": "Имя",
+    "emailPlaceholder": "Электронная почта",
+    "phonePlaceholder": "Телефон",
+    "messagePlaceholder": "Ваше сообщение",
+    "sendMessage": "Отправить сообщение"
+  },
+  "aboutPage": {
+    "home": "Главная",
+    "about": "О нас",
+    "title": "Наша история",
+    "description1": "Основанный в 2015 году, Exclusive является ведущим онлайн-маркетплейсом в Южной Азии с активным присутствием в Бангладеш. Благодаря широкому спектру индивидуальных маркетинговых решений, данных и услуг, Exclusive объединяет 10 500 продавцов, 300 брендов и обслуживает более 3 миллионов клиентов по всему региону.",
+    "description2": "Exclusive предлагает более 1 миллиона товаров и развивается очень быстрыми темпами. Мы предлагаем разнообразный ассортимент категорий, начиная от потребительских товаров.",
+    "stats": {
+      "sellers": "Продавцов на нашем сайте",
+      "sales": "Ежемесячных продаж товаров",
+      "customers": "Активных клиентов на сайте",
+      "gross": "Годовых валовых продаж на сайте"
+    },
+    "team": {
+      "founder": "Основатель и Председатель",
+      "director": "Управляющий директор",
+      "designer": "Дизайнер продукта"
+    }
+  },
+  "account": {
+    "myAccount": "Мой аккаунт",
+    "manageAccount": "Управление аккаунтом",
+    "myProfile": "Мой профиль",
+    "addressBook": "Адресная книга",
+    "paymentOptions": "Способы оплаты",
+    "myOrders": "Мои заказы",
+    "myReturns": "Мои возвраты",
+    "myCancellations": "Мои отмены",
+    "myWishlist": "Мой список желаний",
+    "profile": "Профиль",
+    "profileImage": "Изображение профиля",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "email": "Электронная почта",
+    "phoneNumber": "Номер телефона",
+    "dob": "Дата рождения",
+    "passwordChanges": "Изменение пароля",
+    "currentPassword": "Текущий пароль",
+    "newPassword": "Новый пароль",
+    "confirmNewPassword": "Подтвердите новый пароль",
+    "cancel": "Отмена",
+    "saveChanges": "Сохранить изменения",
+    "updateSuccess": "Профиль успешно обновлен!",
+    "updateError": "Не удалось обновить профиль",
+    "errorPasswordMatch": "Новые пароли не совпадают"
+  },
+  "notFound": {
+    "title": "Страница не найдена",
+    "description": "Запрошенная страница не найдена. Вы можете вернуться на главную.",
+    "backHome": "Вернуться на главную"
+  }
+}
