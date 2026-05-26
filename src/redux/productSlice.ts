@@ -26,6 +26,7 @@ export interface Product {
   images: string[] | null
   rating: number
   reviewsCount?: number
+  description?: string;
 }
 
 interface ProductState {
